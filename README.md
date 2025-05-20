@@ -1,5 +1,4 @@
 # Girishma-Portfolio
-Hey there 👋 !!!
 
 
 # 🧑‍💻 My Portfolio
