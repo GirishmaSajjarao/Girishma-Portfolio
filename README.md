@@ -20,6 +20,8 @@ _This is a modern and minimal developer portfolio built using_ [**Vite**](https:
 
 ---
 
+Demo Link : https://girishmareactfolio.netlify.app/
+
 ## 📁 Project Structure
 
 ```plaintext
@@ -33,3 +35,4 @@ project/
 ├── /src                     # Main source code folder
 │   ├── components/          # Reusable UI components
 │   └── assets/              # Images, icons, etc.
+
